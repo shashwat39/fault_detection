@@ -1,0 +1,6 @@
+Model,Test Accuracy
+Logistic Regression,0.43137254901960786
+K-Nearest Neighbors,0.7549019607843137
+Decision Tree,0.6911764705882353
+Random Forest,0.7524509803921569
+SVM (RBF kernel),0.6078431372549019

@@ -1,0 +1,11 @@
+Model Evaluation Metrics:
+Accuracy: 0.9623
+Precision: 0.9086
+Recall: 0.9020
+F1: 0.9053
+Mcc: 0.8817
+Jaccard: 0.8421
+Auroc: 0.9867
+Hamming Loss: 0.0377
+Log Loss: 0.2645
+Cohen Kappa: 0.8771
